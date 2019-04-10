@@ -10,7 +10,7 @@ int main()
 	const int width = 1280;
 	const int height = 720;
 	const float focal_length = 800.0f;
-	const float pan_angle_in_degree = 20.0f;
+	const float pan_angle_in_degree = 0.0f;
 	const float tilt_angle_in_degree = 30.0f;
 	const float camera_height_in_meter = 70.0f;
 
