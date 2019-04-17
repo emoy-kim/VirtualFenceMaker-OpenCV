@@ -2,7 +2,7 @@
 
   This code is about creating virtual fence mask with OpenCV.
   
-  Please refer to [this](emoy.net) to see the details.
+  Please refer to [this](https://emoy.net/Virtual-Fence-Maker) to see the details.
   
 
   
