@@ -6,14 +6,6 @@
   
 
   
-## Test Environment
-  * Windows 10
-  * Visual Studio 2017
-  * Surface Book 2
-  
-## Library Dependencies
-  * OpenCV
-
 ## Mouse Events
   * **click**: set the center point of fence in *'Main Camera'* window
   * **wheel**: resize the radius of fence
